@@ -5,6 +5,14 @@ For a C
 
 ![Elevator](https://user-images.githubusercontent.com/68326570/192807564-75d1b7cd-55a5-41fe-8ded-321731dd95c4.png)
 
+![elevator](https://user-images.githubusercontent.com/68326570/192807545-f56f42c2-e3e4-4461-b48b-9efa70be793e.gif)
+
+Issues: No way for blind people to tell what floor they stop on
+
+This is a good design because of the user feeback via light up indicators showing which buttons are pressed
+
+For a B
+
 Common Uses:
 	Changing floors
 	Moving items vertically
@@ -27,6 +35,5 @@ Suggestions for improvement:
 Put a speaker in the elevator that says which floor it’s stopping on when arriving to a floor
 
 
-
-![elevator](https://user-images.githubusercontent.com/68326570/192807545-f56f42c2-e3e4-4461-b48b-9efa70be793e.gif)
+For an A
 
