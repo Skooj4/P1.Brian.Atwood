@@ -37,3 +37,6 @@ Put a speaker in the elevator that says which floor it’s stopping on when arri
 
 For an A
 
+Size 400px X 800px
+
+Interactive buttons, feed back through display of selected floor and door opening/closing indicator
