@@ -2,5 +2,31 @@
 Elevator Project
 
 For a C
-![elevator](https://user-images.githubusercontent.com/68326570/192807545-f56f42c2-e3e4-4461-b48b-9efa70be793e.gif)
+
 ![Elevator](https://user-images.githubusercontent.com/68326570/192807564-75d1b7cd-55a5-41fe-8ded-321731dd95c4.png)
+
+Common Uses:
+	Changing floors
+	Moving items vertically
+Rare Uses: 
+
+Common Sequence of actions:
+Call elevator in desired direction
+Enter elevator and select the floor you wish to go to
+Wait to reach desired floor
+Exit elevator
+
+The elevator has up to 2 call buttons on the exterior of the elevator, these buttons are usually labeled or positioned in a way that implies directions. Labeling or positioning of buttons lets the user know which button is for which direction. Upon entering the elevator, there are a sequence of buttons that are labeled to a corresponding floor. Selecting one of these buttons will cause the elevator to move to the chosen floor. These buttons are often labeled with extra descriptors in larger buildings that describe what is available on said floor. 
+
+The elevator supports the user, with a series of chimes. For example, on most elevators when the elevator reaches a called floor it will let out one or two chimes indicating the elevator is continuing up, or continuing down respectively. These also help people who are vision impaired know which direction the elevator is going.
+
+Common Mistakes
+
+Suggestions for improvement:
+
+Put a speaker in the elevator that says which floor it’s stopping on when arriving to a floor
+
+
+
+![elevator](https://user-images.githubusercontent.com/68326570/192807545-f56f42c2-e3e4-4461-b48b-9efa70be793e.gif)
+
