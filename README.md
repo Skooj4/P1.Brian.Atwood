@@ -28,11 +28,10 @@ The elevator has up to 2 call buttons on the exterior of the elevator, these but
 
 The elevator supports the user, with a series of chimes. For example, on most elevators when the elevator reaches a called floor it will let out one or two chimes indicating the elevator is continuing up, or continuing down respectively. These also help people who are vision impaired know which direction the elevator is going.
 
-Common Mistakes
+Common Mistakes: 
 
-Suggestions for improvement:
 
-Put a speaker in the elevator that says which floor it’s stopping on when arriving to a floor
+![sketch](https://user-images.githubusercontent.com/68326570/192937103-c2b21391-9f6d-4f14-b4b7-f1be12737df4.jpg)
 
 
 For an A
